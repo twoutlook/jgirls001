@@ -12,7 +12,7 @@ https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
     git push origin v0.1
 
-# Push without asking for user/pass,  git@github.com:twoutlook/jgirls001.git
+# Push without asking for user/pass
 http://stackoverflow.com/questions/5813726/troubleshooting-git-push-it-asks-for-a-user-pass
 
 BASED ON DEFAULT
