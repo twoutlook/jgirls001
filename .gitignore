@@ -1,8 +1,24 @@
 
-myvenv
 
 #
+# by Mark, 2016-09-23
+# 這是為不破壞 PROD 數據所設計的 
+# 現階段以簡易 sqlite3 部署
+# git pull 時就不會包括 db.sqlite3
+#
+# git add . 
+# 一定要用
+# git status
+# 查看
+# 有問題可以
+# git reset
+# 查看OK才
+# git commit -m"my comments"
 db.sqlite3
+
+# virtual environment, same level as mysite, 有對稱的感覺
+myvenv
+
 
 #
 *.zip
