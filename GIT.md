@@ -24,6 +24,8 @@ ADD ONE MORE
 `git remote set-url origin git@github.com:twoutlook/jgirls001.git`
 
 # auto deploy
-http://stackoverflow.com/questions/7303518/automatically-deploy-from-github-to-server-on-push
-https://github.com/logsol/Github-Auto-Deploy
-http://www.thisprogrammingthing.com/2013/automatically-updating-your-website-using-githubs-service-hooks/
+to check later
+
+- http://stackoverflow.com/questions/7303518/automatically-deploy-from-github-to-server-on-push
+- https://github.com/logsol/Github-Auto-Deploy
+- http://www.thisprogrammingthing.com/2013/automatically-updating-your-website-using-githubs-service-hooks/
