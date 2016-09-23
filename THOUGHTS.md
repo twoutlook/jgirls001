@@ -1,13 +1,13 @@
 # 要把感覺說出來
 
-就像許多 Python Django 開發者的分享，一但體會到 Python Django 的開發便利，就會快樂在這領域耕耘。
+就像許多 [Python](http://python.org/) [Django](https://www.djangoproject.com/)  開發者的分享，一但體會到 Python Django 的開發便利，就會快樂在這領域耕耘。
 
 一開始練習 Python 是使用命令行方式，其實不覺得有太大的震撼，反而覺得一直要打指令，
 不如寫在.py裡來執行，更合約DRY的理念。
 
 接觸到 Django 時，開始感受到力道，尤其是可以直接在命令行執行起網站。
 
-測試 Wagtail 時，反過來對 Django 有較好的理解。
+測試 [Wagtail](https://wagtail.io/) 時，反過來對 Django 有較好的理解。
 
 [djangogirls] (https://tutorial.djangogirls.org/) 給了一個完整的教程。
 
