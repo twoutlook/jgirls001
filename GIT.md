@@ -12,10 +12,16 @@ https://git-scm.com/book/en/v2/Git-Basics-Tagging
 
     git push origin v0.1
 
-# Push without asking for user/pass
+# Push without asking for user/pass,  git@github.com:twoutlook/jgirls001.git
 http://stackoverflow.com/questions/5813726/troubleshooting-git-push-it-asks-for-a-user-pass
- git remote add origin https://github.com/twoutlook/jgirls001.git
- git remote set-url origin git@github.com:twoutlook/jgirls001.git
+
+BASED ON DEFAULT
+
+`git remote add origin https://github.com/twoutlook/jgirls001.git` 
+
+ADD ONE MORE
+
+`git remote set-url origin git@github.com:twoutlook/jgirls001.git`
 
 # auto deploy
 http://stackoverflow.com/questions/7303518/automatically-deploy-from-github-to-server-on-push
